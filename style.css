@@ -1,3 +1,25 @@
-h1{
-    color: blue
+h1 {
+  color: blue;
+}
+footer {
+  background-color: #222;
+  color: #ccc;
+  padding: 20px 30px;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer a {
+  color: #ccc;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+footer a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.footer-links {
+  margin-bottom: 10px;
 }
